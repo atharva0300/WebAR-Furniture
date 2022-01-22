@@ -1,0 +1,6 @@
+Couch 
+Chair 
+Table 
+Wardrobe 
+Single Bed 
+Double Bed 
