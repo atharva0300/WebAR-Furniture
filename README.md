@@ -18,5 +18,5 @@ A WebAR furniture Application that helps you to see how a furniture will look at
 1. Atharva Pingale - https://github.com/atharva0300
 2. Piyush Kale - https://github.com/Piyush0102
 3. Divya Nipane - https://github.com/Divya22-web
-4. Ananya Ray - 
+4. Ananya Ray - https://github.com/Ananya271102
 5. Kshitija Kasar - 
